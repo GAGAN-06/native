@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "translationApp",
+    "displayName": "translationApp",
     "slug": "translationApp",
     "version": "1.0.0",
     "orientation": "portrait",
